@@ -41,9 +41,9 @@ Transforming ideas into digital realities, one pixel at a time. With a passion f
 
 ### 📊 Spell Casting Stats (GitHub Activity)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityanshkapasia&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanshkapasia&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ### 🌐 Summon Me (Get in Touch)
 
