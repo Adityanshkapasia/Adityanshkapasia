@@ -1,8 +1,7 @@
 # 👋 Hello, World! I'm Adityansh 🚀
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome)](adityanshkapasia7.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityanshkapsia)
 
 ## 🧙‍♂️ Freelance Web Wizard | Full-Stack Alchemist | Code Poet
 
@@ -41,16 +40,15 @@ Transforming ideas into digital realities, one pixel at a time. With a passion f
 
 ### 📊 Spell Casting Stats (GitHub Activity)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityanshkapasia&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityanshkapasia&show_icons=true&theme=radical)](https://github.com/Adityanshkapasia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanshkapasia&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanshkapasia&layout=compact&theme=radical)](https://github.com/Adityanshkapasia)
 
 ### 🌐 Summon Me (Get in Touch)
 
 - 💼 Open for freelance projects and collaborations
 - 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
+- 🌍 Website: [adityanshkapasia7.vercel.app](https://adityanshkapasia7.vercel.app/)
 
 ### 🔮 Currently...
 
