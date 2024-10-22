@@ -26,17 +26,6 @@ Transforming ideas into digital realities, one pixel at a time. With a passion f
 
 ### 🌟 Featured Incantations (Projects)
 
-1. **Quantum Quill** - A Next.js-powered blogging platform with AI-assisted writing and SEO optimization.
-   `Tech: Next.js, OpenAI API, Prisma, PostgreSQL, Tailwind CSS`
-
-2. **Chrono Capsule** - A time-travel inspired task management app with parallel universe simulations.
-   `Tech: React, Node.js, Express, MongoDB, Socket.io, Framer Motion`
-
-3. **EcoTrack** - An IoT-enabled sustainability dashboard for smart cities.
-   `Tech: Vue.js, GraphQL, InfluxDB, MQTT, TensorFlow.js`
-
-4. **CodeCraft Academy** - An interactive coding education platform with real-time collaboration.
-   `Tech: Next.js, TypeScript, WebRTC, Firebase, Judge0 API`
 
 ### 📊 Spell Casting Stats (GitHub Activity)
 
@@ -47,8 +36,8 @@ Transforming ideas into digital realities, one pixel at a time. With a passion f
 ### 🌐 Summon Me (Get in Touch)
 
 - 💼 Open for freelance projects and collaborations
-- 📧 Email: your.email@example.com
-- 🌍 Website: [adityanshkapasia7.vercel.app](https://adityanshkapasia7.vercel.app/)
+- 📧 Email: adityansh7@gmail.com
+- 🌍 Website: [adityanshkapasia.tech](https://adityanshkapasia7.vercel.app/)
 
 ### 🔮 Currently...
 
