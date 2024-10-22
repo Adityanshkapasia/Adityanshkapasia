@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Adityansh 🚀
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome)](adityanshkapasia7.vercel.app)
+[![Website](https://img.shields.io/badge/Website-adityanshkapasia.tech-blue?style=flat-square&logo=google-chrome)](adityanshkapasia.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityanshkapsia)
 
 ## 🧙‍♂️ Freelance Web Wizard | Full-Stack Alchemist | Code Poet
